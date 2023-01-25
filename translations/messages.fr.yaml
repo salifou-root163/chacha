@@ -1,0 +1,10 @@
+login:
+  title: Connectez-vous pour pouvoir utiliser la plateforme
+  login: Se connecter
+  forgot-password: Mot de passe oublié ?
+
+logout: Déconnexion
+
+app:
+  title: Gestion de materiel
+  
